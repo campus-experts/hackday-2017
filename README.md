@@ -11,4 +11,4 @@ The hackday will be taking place remotely, and at Hackference in the UK.
 - Prefect: automating the open-training repo.
 - Report-card: an interface for the open-training review queue.
 - campus-experts.github.io: the website to find Experts and their work.
-- Hubbub: native push notifications for GitHub activity and org/team-level announcements. 
+- Hubbub: native push notifications for GitHub activity and org/team-level announcements.
